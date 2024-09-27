@@ -20,14 +20,6 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on a Job Application Logger<br><br>- 🌱 I’m currently learning AWS services, and Cloud computing concepts<br><br>- 👨‍💻 All of my projects are available at https://nevinramjitsingh.netlify.app/<br><br>- 💬 Ask me about Full-stack development, building React apps, and API integration<br><br>- ⚡ Fun fact: I love learning new tech and diving into personal projects</p>
-
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -63,5 +55,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif"  />
+
+###
+
+<p align="left">- 🔭 I’m currently working on a Job Application Logger<br><br>- 🌱 I’m currently learning AWS services, and Cloud computing concepts<br><br>- 👨‍💻 All of my projects are available at https://nevinramjitsingh.netlify.app/<br><br>- 💬 Ask me about Full-stack development, building React apps, and API integration<br><br>- ⚡ Fun fact: I love learning new tech and diving into personal projects</p>
 
 ###
